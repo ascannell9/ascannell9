@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ascannell9 Andrew Scannell
 - 👀 I’m interested in astronomy, F1, football and music (I play the Euphonium)
-- 🌱 I’m currently learning data analytics with Digital Futures
+- 🌱 I’m currently a data analyst with Digital Futures on placement at HSBC
 - 💞️ I’m looking to collaborate on data analytical projects using Python, SQL or Tableau
 - 📫 How to reach me email andy.scannell@hotmail.co.uk
 - 😄 Pronouns: He/Him
